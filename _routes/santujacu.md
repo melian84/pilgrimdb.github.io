@@ -1,6 +1,6 @@
 ---
 title: Cammino di Santu Jacu
-id: SantuJacu
+id: santujacu
 branches:
   -
     branch: 0
