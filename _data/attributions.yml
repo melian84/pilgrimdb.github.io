@@ -387,6 +387,11 @@ salvador:
 sanabres:
   0: "Leon section and variant via Oseira adapted from trail on <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=semurandar\">wikiloc.com</a>; Galician section from kml files from <a href=\"http://camino.xacobeo.es\">Xacobeo</a>"
   a: "Leon section and variant via Oseira adapted from trail on <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=semurandar\">wikiloc.com</a>; Galician section from kml files from <a href=\"http://camino.xacobeo.es\">Xacobeo</a>"
+santujacu:
+  0: "Central Route from Cagliari to Porto Torres - GPX files on <a htref=\"http://www.camminando.eu/wordpress/in-italia/il-cammino-di-santu-jacu/tracce-gps-del-cammino-di-santu-jacu-in-fase-di-aggiornamento/tracce-gps-dellasse-centrale-porto-torres-cagliari/">Camminando.eu</a>"
+  1: "Western Branch from Bolotana to Oristano through the Penisola del Sinis on <a href=\"http://www.camminando.eu/wordpress/in-italia/il-cammino-di-santu-jacu/tracce-gps-del-cammino-di-santu-jacu-in-fase-di-aggiornamento/tracce-gps-braccio-laterale-nord-ovest-da-bolotana-a-macomer-a-oristano/">Camminando.eu</a>"
+  2: "North-eastern Branch from Ozieri to Olbia on <a href=\"http://www.camminando.eu/wordpress/in-italia/il-cammino-di-santu-jacu/tracce-gps-del-cammino-di-santu-jacu-in-fase-di-aggiornamento/tracce-gps-braccio-laterale-nordest-ozieri-orosei-olbia-e-viceversa/">Camminando.eu</a>"
+  3: "Sulcis Branch from Cagliari to the Islands of San Pietro and Sant'Antioco on <a href=\"http://www.camminando.eu/wordpress/in-italia/il-cammino-di-santu-jacu/tracce-gps-dellasse-centrale-porto-torres-cagliari/">Camminando.eu</a>"
 scandinavica:
   0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
 schwaben:
